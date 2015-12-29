@@ -17,8 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    // Nhanh Master
     // Nhanh Thu ba tao moi tu nhanh hai
+    // Nhanh Master
 }
 
 - (void)didReceiveMemoryWarning {
